@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>타이틀 내용 바뀜</title>
 </head>
 <body>
 	<h1>바뀜asdfasdf</h1>
